@@ -1,3 +1,136 @@
+# 100 Interview Questions for Computer Networks
+
+## 🔹 Section 1: Fundamentals & Layered Architecture
+
+1. What is the OSI model? Explain each layer with a real-world analogy.
+2. How does the TCP/IP model differ from the OSI model?
+3. Why is layering important in network design?
+4. What are protocols? Name a few used at each OSI layer.
+5. How does encapsulation work as data travels down the layers?
+6. What is MTU and how is fragmentation handled?
+7. What happens when you type a URL in the browser?
+8. Explain the difference between circuit-switching and packet-switching.
+9. Why are protocols like HTTP called stateless?
+10. What is the difference between data, segment, packet, and frame?
+
+## 🔹 Section 2: Application Layer
+
+11. What is DNS and how does it work?
+12. How does HTTP/1.1 differ from HTTP/2?
+13. What is HTTPS and how does SSL/TLS work?
+14. What is a CDN and how does it improve performance?
+15. How does email transmission work (SMTP, IMAP, POP3)?
+16. How does content negotiation work in REST APIs?
+17. What are cookies, sessions, and JWTs?
+18. How does a reverse proxy server work?
+19. What’s the difference between a forward proxy and a reverse proxy?
+20. How does load balancing work at the application layer?
+
+## 🔹 Section 3: Transport Layer
+
+21. What is TCP? How does it ensure reliable transmission?
+22. How does TCP 3-way handshake work?
+23. What is a SYN flood attack?
+24. What are TCP flags (SYN, ACK, FIN, RST)?
+25. Explain flow control and congestion control in TCP.
+26. What is the sliding window protocol?
+27. What is UDP and where is it used?
+28. How do QUIC and SCTP compare to TCP?
+29. How does port multiplexing work in transport protocols?
+30. When would you prefer UDP over TCP?
+
+## 🔹 Section 4: Network Layer
+
+31. What is an IP address? What are IPv4 and IPv6?
+32. How does subnetting work?
+33. What is CIDR notation and why is it used?
+34. How does ARP work?
+35. What is ICMP and how is it used in ping and traceroute?
+36. How does NAT (Network Address Translation) work?
+37. What is the difference between private and public IPs?
+38. How do routing protocols like OSPF and BGP work?
+39. How does a router differ from a switch?
+40. What’s the role of TTL in an IP packet?
+
+## 🔹 Section 5: Data Link Layer
+
+41. What is MAC addressing and how is it different from IP addressing?
+42. How does a switch use MAC addresses to forward frames?
+43. What is ARP poisoning and how can it be mitigated?
+44. How does VLAN work?
+45. What are STP and RSTP protocols?
+46. Explain CSMA/CD and CSMA/CA.
+47. What are the components of an Ethernet frame?
+48. What is PPP and how is it used?
+49. How does a DHCP server assign IP addresses?
+50. What are broadcast, unicast, and multicast communications?
+
+## 🔹 Section 6: Physical Layer
+
+51. What are the different types of transmission media?
+52. Explain the difference between baseband and broadband.
+53. How does signal attenuation affect communication?
+54. What is the Nyquist theorem?
+55. What is modulation and why is it used?
+56. What is bandwidth and how is it measured?
+57. What are bit rate and baud rate?
+58. How does Manchester encoding work?
+59. What is multiplexing (TDM, FDM, WDM)?
+60. What are the standard Ethernet cable types (Cat5e, Cat6)?
+
+## 🔹 Section 7: Network Security
+
+61. What is a firewall and how does it work?
+62. What is a VPN and how does it ensure privacy?
+63. How does SSL/TLS handshake work?
+64. What are symmetric and asymmetric encryption?
+65. What are common network attacks (DDoS, MITM, spoofing)?
+66. How do intrusion detection and prevention systems work?
+67. What is a DMZ in network architecture?
+68. What is the difference between IPSec and TLS VPNs?
+69. How do digital certificates and CAs work?
+70. What is port scanning and how can it be detected?
+
+## 🔹 Section 8: Wireless and Mobile Networks
+
+71. How does Wi-Fi authentication (WPA2, WPA3) work?
+72. What causes packet loss and jitter in wireless networks?
+73. What are the differences between 4G, 5G, and Wi-Fi 6?
+74. What is handoff in mobile networks?
+75. How does roaming work in cellular networks?
+76. How does TCP handle mobility?
+77. How do mobile IP and tunneling protocols work?
+78. What is the role of SSID and BSSID in Wi-Fi?
+79. What are hidden node and exposed node problems?
+80. How does beamforming improve wireless coverage?
+
+## 🔹 Section 9: Cloud, SDN & Modern Networks
+
+81. What is a VPC in AWS or other cloud environments?
+82. What is Software Defined Networking (SDN)?
+83. What is Network Function Virtualization (NFV)?
+84. How do containers and Kubernetes handle networking?
+85. What is a service mesh (Istio, Linkerd)?
+86. How does DNS work in Kubernetes?
+87. What are overlay networks (VXLAN, GRE)?
+88. How does NAT Gateway differ from Internet Gateway in cloud?
+89. How is Zero Trust Networking different from perimeter-based security?
+90. What is network slicing in 5G?
+
+## 🔹 Section 10: Troubleshooting, Tools & Real-World Scenarios
+
+91. How do you troubleshoot high latency in a web application?
+92. What tools do you use to diagnose network issues (ping, traceroute, tcpdump)?
+93. How would you debug a DNS resolution failure?
+94. How do you determine whether a problem is in your network or the server?
+95. What is the role of Wireshark in packet analysis?
+96. How do you check for a port conflict on a host?
+97. What’s the difference between netstat and ss commands?
+98. How would you debug a TCP connection timeout?
+99. How do CDNs impact latency troubleshooting?
+100. How would you design a high-availability network for a SaaS application?
+
+
 # 🌐 100 Real-World Interview Questions for Computer Networks
 
 ---
