@@ -132,14 +132,6 @@
 
 
 # 🌐 100 Real-World Interview Questions for Computer Networks
-
----
-
-## 📂 `computer_networks_real_world_questions.md`
-
-```markdown
-# 100 Real-World Interview Questions for Computer Networks
-
 ## 🔹 Section 1: Network Architecture & Protocols
 1. You're designing a messaging app. What protocol would you use for message delivery?
 2. How would you implement secure communication over an insecure channel?
@@ -260,4 +252,3 @@
 99. A remote database connection is timing out. What layers do you check?
 100. Design a high-availability DNS system. How would you ensure failover?
 
-```
