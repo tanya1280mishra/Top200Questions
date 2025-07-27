@@ -133,13 +133,6 @@
 
 # 🧱 100 Real-World Interview Questions for Object-Oriented Programming (OOP)
 
----
-
-## 📂 `oops_real_world_questions.md`
-
-```markdown
-# 100 Real-World Interview Questions for Object-Oriented Programming (OOP)
-
 ## 🔹 Section 1: Core Concepts (Class, Object, Encapsulation, Abstraction)
 1. Explain encapsulation using a real-world banking system.
 2. How would abstraction help in building a ride-sharing app?
@@ -259,6 +252,3 @@
 98. How would you extract common behavior across sibling classes?
 99. What are code smells specific to object-oriented programming?
 100. In a system with hundreds of classes, how do you ensure design scalability?
-```
-
----
