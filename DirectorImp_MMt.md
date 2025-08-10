@@ -1,10 +1,4 @@
-Alright — since you’re interviewing with **a Director of Technology** for a **fresher software developer role** at MakeMyTrip, the safest prep strategy is to master **three main buckets**:
-
-1. **Core CS Fundamentals (including DSA)**
-2. **System & Software Design (beginner-friendly)**
-3. **Behavioral + Company Context**
-
-I’ll give you **30 questions per bucket** that are **most likely** to come up based on his background (distributed systems, payments, high-scale apps) and fresher interviews at product companies like MMT.
+# **MakeMyTrip Fresher Interview — 90-Question Prep Sheet**
 
 ---
 
@@ -12,7 +6,7 @@ I’ll give you **30 questions per bucket** that are **most likely** to come up 
 
 *(Expect 2–3 coding problems + theory in the same round)*
 
-**Data Structures**
+### **Data Structures**
 
 1. Implement a stack using arrays.
 2. Implement a queue using stacks.
@@ -25,7 +19,8 @@ I’ll give you **30 questions per bucket** that are **most likely** to come up 
 9. Find the height of a binary tree.
 10. Check if a binary tree is balanced.
 
-**Algorithms**
+### **Algorithms**
+
 11. Find the first non-repeating character in a string.
 12. Check if two strings are anagrams.
 13. Find all pairs with a given sum in an array.
@@ -37,7 +32,8 @@ I’ll give you **30 questions per bucket** that are **most likely** to come up 
 19. Longest common subsequence.
 20. Longest palindrome in a string.
 
-**Complexity & Theory**
+### **Complexity & Theory**
+
 21. Explain time and space complexity with examples.
 22. Difference between stack & heap memory.
 23. HashMap working (hash function, collisions).
@@ -55,7 +51,7 @@ I’ll give you **30 questions per bucket** that are **most likely** to come up 
 
 *(He may give simplified versions since you’re fresher)*
 
-**Basic System Design**
+### **Basic System Design**
 
 1. Design an online ticket booking system.
 2. Design a payment success rate monitoring system.
@@ -68,7 +64,8 @@ I’ll give you **30 questions per bucket** that are **most likely** to come up 
 9. How would you design a “retry on failure” mechanism for payments?
 10. How to design an inventory management system.
 
-**Databases**
+### **Databases**
+
 11. Difference between SQL & NoSQL — when to use each.
 12. Write an SQL query to find the top 3 booked hotels.
 13. Explain indexes and when to use them.
@@ -80,7 +77,8 @@ I’ll give you **30 questions per bucket** that are **most likely** to come up 
 19. Explain read replicas in databases.
 20. Difference between vertical & horizontal scaling in DBs.
 
-**Networking & APIs**
+### **Networking & APIs**
+
 21. Explain HTTP methods (GET, POST, PUT, DELETE).
 22. Difference between REST & SOAP.
 23. What is idempotency in APIs?
@@ -98,7 +96,7 @@ I’ll give you **30 questions per bucket** that are **most likely** to come up 
 
 *(Director-level interviewers want to see mindset & culture fit)*
 
-**Personal & Career**
+### **Personal & Career**
 
 1. Tell me about yourself.
 2. Why do you want to join MakeMyTrip?
@@ -111,28 +109,32 @@ I’ll give you **30 questions per bucket** that are **most likely** to come up 
 9. How do you handle failure?
 10. What do you do if you’re stuck on a problem?
 
-**Teamwork & Communication**
+### **Teamwork & Communication**
+
 11. Have you worked in a team before? Describe your role.
 12. How do you resolve conflicts with teammates?
 13. How do you ensure your code is understandable by others?
 14. How do you give and receive feedback?
 15. How do you handle unclear requirements?
 
-**Problem-Solving in MMT Context**
+### **Problem-Solving in MMT Context**
+
 16. If payment succeeds but booking fails, what’s your approach?
 17. How to reduce booking page load time from 5s to 2s?
 18. How to debug a payment failure spike?
 19. How to improve search speed for flights during peak season?
 20. If two users try to book the same seat at once, what will you do?
 
-**Growth & Vision**
+### **Growth & Vision**
+
 21. Where do you see yourself in 3 years?
 22. How do you stay updated with technology?
 23. Which tech trend excites you the most?
 24. What is one improvement you’d suggest for MMT’s website/app?
 25. How do you prioritize between speed of delivery & quality of code?
 
-**Ethics & Mindset**
+### **Ethics & Mindset**
+
 26. What would you do if you found a bug just before a deadline?
 27. Would you take responsibility for a team mistake you didn’t cause?
 28. How do you ensure security in your code?
@@ -141,5 +143,4 @@ I’ll give you **30 questions per bucket** that are **most likely** to come up 
 
 ---
 
-If you want, I can now **merge these into a “one-sheet” rapid revision guide** — where each of these 90 questions has a **short, bullet-point answer** so you can revise them in **1–2 days before the interview** without having to look them up individually.
-That will save you from panic Googling during last-minute prep.
+Do you want me to now **add one-line “model answers”** to all 90 so you can revise them in **under 2 hours** before your interview? That would make this your complete last-day prep sheet.
